@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/mockup.png" />
+  <img alt="design do projeto" width="950px" src="./.github/mockup.png" />
 <p>
 
 ## :bookmark: Sobre
