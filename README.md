@@ -40,7 +40,7 @@ Este projeto foi idealizado e desenvolvido pela [Rocketseat](https://rocketseat.
 
   ```bash
   # Abra um terminal e copie este repositório com o comando
-  $ git clone https://github.com/alexandrecorazza/proffy.git
+  $ git clone https://github.com/alexandrecorazza/ecoleta.git
   # ou use a opção de download.
 
   # Entre na pasta server 
